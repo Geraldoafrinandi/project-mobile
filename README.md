@@ -14,19 +14,19 @@ Project ini merupakan syarat kelulusan pada mata kuliah Pemograman Mobile. Proje
 - **Library**: Google Maps Flutter, Image Picker, Shared Preferences
 - **Kredensial Autentikasi**: Google Maps Api Keys  Google Maps Api Keys - digunakan untuk mengintegrasikan dengan google maps. APi Keys ini bisa didapatkan melalui Google Cloud Console
 
-  ## Instalasi
-  1. **Kloning repositori**:
+## Instalasi
+1. **Kloning repositori**:
      ```bash
      git clone https://github.com/Geraldoafrinandi/project-mobile.git
      cd project-mobile
      ```
-  2. **Import Database**
+2. **Import Database**
      Buat sebuah Database baru pada MySql dengan nama "db_klinik" kemudian import tabelnya
      
-  4. **Pindahkan Folder Backend**
+3. **Pindahkan Folder Backend**
      Pindahkan folder yang bernama **server_uas** ke dalam folder xampp -> htdocs
 
-  5. **Jalankan Aplikasi**
+4. **Jalankan Aplikasi**
      ### Pastikan memiliki emulator yang sudah support google play store
      ```bash
      flutter run
