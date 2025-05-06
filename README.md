@@ -13,14 +13,14 @@ Project ini merupakan syarat kelulusan pada mata kuliah Pemograman Mobile. Proje
 -  **Berita Terkini**: Memberikan berita terbaru seputar kesehatan
 
 
-##Teknologi Yang digunakan
+## Teknologi Yang digunakan
 - **Backend**: PHP
 - **Database**: MySQl
 - **Library**: Google Maps Flutter, Image Picker, Shared Preferences
 - **Kredensial Autentikasi**: Google Maps Api Keys  Google Maps Api Keys - digunakan untuk mengintegrasikan dengan google maps. APi Keys ini bisa didapatkan melalui Google Cloud Console
 
 
-##Instalasi
+## Instalasi
 1. **Kloning repositori**:
      ```bash
      git clone https://github.com/Geraldoafrinandi/project-mobile.git
