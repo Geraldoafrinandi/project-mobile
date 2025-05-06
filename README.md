@@ -26,10 +26,10 @@ Project ini merupakan syarat kelulusan pada mata kuliah Pemograman Mobile. Proje
      git clone https://github.com/Geraldoafrinandi/project-mobile.git
      cd project-mobile
      ```
-2. **Import Database**
+2. **Import Database**:
      Buat sebuah Database baru pada MySql dengan nama "db_klinik" kemudian import tabelnya
      
-3. **Pindahkan Folder Backend**
+3. **Pindahkan Folder Backend**:
      Pindahkan folder yang bernama **server_uas** ke dalam folder xampp -> htdocs
 
 4. **Jalankan Aplikasi**
