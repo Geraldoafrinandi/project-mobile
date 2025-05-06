@@ -2,7 +2,7 @@
 
 Project ini merupakan syarat kelulusan pada mata kuliah Pemograman Mobile. Project ini dibangun dengan menggunakan **Dart**, **MySql**, dan **PHP**. Project ini menyimpan data produk dan pengguna didalam database SQL dan menggunakan PHP sebagai backend nya.
 
-**Fitur
+**Fitur**
 - **Tanya Dokter**: Fitur AI untuk berkonsultasi seputar kesehatan, obat, penyakit dan penyembuhan
 - **Rumah Sakit**: Fitur petunjuk rumah sakit terdekat dan call center nya, petunjuk rumah sakit sudah di integrasikan dengan google maps
 -  **Obat**: Fitur untuk membeli obat langsung sesuai dengan resep yang sudah diberikan dokter. Dapat menghemat waktu dan tidak perlu mengantri
@@ -27,7 +27,7 @@ Project ini merupakan syarat kelulusan pada mata kuliah Pemograman Mobile. Proje
      Pindahkan folder yang bernama **server_uas** ke dalam folder xampp -> htdocs
 
 4. **Jalankan Aplikasi**
-     ### Pastikan memiliki emulator yang sudah support google play store
+     ### Pastikan memiliki emulator yang sudah support Google Play Store
      ```bash
      flutter run
      ```
