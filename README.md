@@ -9,7 +9,7 @@ Project ini merupakan syarat kelulusan pada mata kuliah Pemograman Mobile. Proje
 - **Rumah Sakit**: Fitur petunjuk rumah sakit terdekat dan call center nya, petunjuk rumah sakit sudah di integrasikan dengan google maps
   
 -  **Obat**: Fitur untuk membeli obat langsung sesuai dengan resep yang sudah diberikan dokter. Dapat menghemat waktu dan tidak perlu mengantri
-- 
+  
 -  **Berita Terkini**: Memberikan berita terbaru seputar kesehatan
 
 
